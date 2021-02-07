@@ -14,6 +14,14 @@ spring:
 #    view:
 #      prefix: classpath:/templates/
 #      suffix: .html
+  application:
+    name: springboot_rabbitmq
+  rabbitmq:
+    host: 192.168.3.212
+    port: 5672
+    username: ems
+    password: 123
+    virtual-host: /ems
   datasource:
     druid:
       username: root
