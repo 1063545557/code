@@ -11,8 +11,8 @@ public class Provider2 {
         Channel channel=connection.createChannel();
 
         //将通道声明指定交换机
-        //参数1：交换机名称 参数2：交换机类型
-        channel.exchangeDeclare("","fanout");
+        //参数1：交换机名称 参数2：交换机类型  fanout 广播类型
+        channel.exchangeDeclare("logs","fanout");
 
     }
 }
