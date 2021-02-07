@@ -1,0 +1,19 @@
+2021-01-07 18:07:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11052 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-07 18:07:29 ===[ main ] === [ DEBUG ]===[ com.example.demo1.LogTest : 56 ] === Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-07 18:07:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-07 18:07:30 ===[ main ] === [ DEBUG ]===[ org.apache.ibatis.logging.LogFactory : 105 ] === Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-01-07 18:07:30 ===[ main ] === [ DEBUG ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 435 ] === Identified candidate component class: file [C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes\com\example\demo1\mapper\UserMapper.class]
+2021-01-07 18:07:30 ===[ main ] === [ DEBUG ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 49 ] === Creating MapperFactoryBean with name 'userMapper' and 'com.example.demo1.mapper.UserMapper' mapperInterface
+2021-01-07 18:07:30 ===[ main ] === [ DEBUG ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 49 ] === Enabling autowire by type for MapperFactoryBean with name 'userMapper'.
+2021-01-07 18:07:31 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-07 18:07:32 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-07 18:07:32 ===[ main ] === [ DEBUG ]===[ org.mybatis.spring.SqlSessionFactoryBean : 49 ] === Parsed mapper file: 'file [C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes\mapping\UserMapper.xml]'
+2021-01-07 18:07:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 4.74 seconds (JVM running for 6.431)
+2021-01-07 18:07:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 21 ] === before test
+2021-01-07 18:07:34 ===[ main ] === [ DEBUG ]===[ com.example.demo1.LogTest : 30 ] === 这是debug日志
+2021-01-07 18:07:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 31 ] === 这是info日志
+2021-01-07 18:07:34 ===[ main ] === [ WARN  ]===[ com.example.demo1.LogTest : 32 ] === 这是warn日志
+2021-01-07 18:07:34 ===[ main ] === [ ERROR ]===[ com.example.demo1.LogTest : 33 ] === 这是error日志
+2021-01-07 18:07:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 25 ] === after test
+2021-01-07 18:07:34 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-07 18:07:34 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

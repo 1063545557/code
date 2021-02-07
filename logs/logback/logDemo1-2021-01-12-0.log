@@ -1,0 +1,609 @@
+2021-01-12 09:38:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1ApplicationTests : 55 ] === Starting Demo1ApplicationTests using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2740 (started by LZDEV in C:\Users\26690\Desktop\�½��ļ��� (2)\demo1)
+2021-01-12 09:38:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1ApplicationTests : 664 ] === The following profiles are active: dev
+2021-01-12 09:38:22 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 09:38:23 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 09:38:24 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1ApplicationTests : 61 ] === Started Demo1ApplicationTests in 3.925 seconds (JVM running for 5.253)
+2021-01-12 09:38:25 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 09:38:25 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 10:44:09 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9700 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 10:44:09 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 10:44:12 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 10:44:12 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 10:44:12 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 10:44:12 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 10:44:12 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 10:44:13 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 10:44:14 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 10:44:14 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 6.117 seconds (JVM running for 7.25)
+2021-01-12 10:44:22 ===[ http-nio-8081-exec-3 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 10:46:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 10:46:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 10:46:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4904 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 10:46:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 10:46:13 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 10:46:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 10:46:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 10:46:13 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 10:46:13 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 10:46:14 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 10:46:14 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 10:46:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.311 seconds (JVM running for 5.062)
+2021-01-12 10:46:29 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:10:54 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:10:54 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:11:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9404 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:11:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:11:05 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:11:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:11:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:11:05 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:11:06 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:11:06 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:11:07 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:11:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.693 seconds (JVM running for 5.518)
+2021-01-12 11:11:11 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:13:27 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:13:27 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:13:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4560 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:13:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:13:35 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:13:36 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:13:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.501 seconds (JVM running for 5.27)
+2021-01-12 11:13:40 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:13:41 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 72 ] === download success
+2021-01-12 11:36:13 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:36:13 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:36:16 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5900 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:36:16 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:36:18 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:36:19 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:36:19 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.09 seconds (JVM running for 4.693)
+2021-01-12 11:37:01 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:41:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2852 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:41:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:41:38 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:41:38 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:41:38 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:41:38 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:41:38 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:41:39 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:41:40 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:41:40 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.532 seconds (JVM running for 5.278)
+2021-01-12 11:41:53 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:44:47 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:44:47 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:44:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7496 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:44:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:44:52 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:44:52 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:44:52 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:44:52 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:44:52 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:44:53 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:44:54 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:44:54 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.47 seconds (JVM running for 5.189)
+2021-01-12 11:45:04 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:46:51 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:46:51 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:47:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4720 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:47:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:47:02 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:47:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:47:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:47:02 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:47:02 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:47:03 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:47:04 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:47:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.702 seconds (JVM running for 5.51)
+2021-01-12 11:47:25 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:50:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:50:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:50:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7648 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:50:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:50:13 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:50:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:50:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:50:13 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:50:13 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:50:14 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:50:15 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:50:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.692 seconds (JVM running for 5.478)
+2021-01-12 11:50:21 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:58:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 11:58:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 11:58:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6204 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 11:58:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 11:58:49 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:58:49 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 11:58:49 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 11:58:49 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 11:58:49 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 11:58:50 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 11:58:50 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 11:58:51 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.733 seconds (JVM running for 5.481)
+2021-01-12 11:58:57 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 11:59:11 ===[ http-nio-8081-exec-4 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Current request is not a multipart request] with root cause
+org.springframework.web.multipart.MultipartException: Current request is not a multipart request
+	at org.springframework.web.method.annotation.RequestParamMethodArgumentResolver.handleMissingValue(RequestParamMethodArgumentResolver.java:196)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:114)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:170)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-12 12:01:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:01:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:01:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 10436 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:01:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:01:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:01:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:01:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:01:46 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:01:46 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:01:46 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:01:47 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:01:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.871 seconds (JVM running for 5.576)
+2021-01-12 12:01:54 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 12:18:17 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:18:17 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:18:22 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6380 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:18:22 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:18:24 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:18:24 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:18:24 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:18:24 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:18:24 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:18:25 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:18:26 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:18:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.532 seconds (JVM running for 5.272)
+2021-01-12 12:19:01 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 12:19:07 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ com.example.demo1.controller.FileController : 38 ] === 文件上传失败！
+2021-01-12 12:30:36 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:30:36 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:30:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7808 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:30:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:30:43 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:30:43 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:30:43 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:30:44 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:30:44 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:30:44 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:30:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:30:45 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.543 seconds (JVM running for 5.276)
+2021-01-12 12:31:44 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:31:44 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:31:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9364 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:31:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:31:50 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:31:50 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:31:50 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:31:50 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:31:50 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:31:51 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:31:51 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:31:52 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.131 seconds (JVM running for 5.886)
+2021-01-12 12:32:00 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 12:35:28 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:35:28 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:37:30 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9612 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:37:30 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:37:33 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:37:33 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:37:33 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:37:33 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:37:33 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:37:35 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:37:37 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:37:37 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 8.795 seconds (JVM running for 9.866)
+2021-01-12 12:37:50 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 12:38:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 12:38:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 12:38:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9628 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 12:38:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 12:38:53 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:38:53 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 12:38:53 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 12:38:53 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 12:38:53 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 12:38:54 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 12:38:56 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 12:38:56 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 7.689 seconds (JVM running for 8.767)
+2021-01-12 12:39:06 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 13:13:35 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 13:13:35 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 13:13:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 8292 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 13:13:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 13:13:40 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 13:13:40 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 13:13:40 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 13:13:41 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 13:13:41 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 13:13:41 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 13:13:42 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 13:13:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.956 seconds (JVM running for 5.829)
+2021-01-12 13:14:05 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 13:14:09 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 39 ] === upload success
+2021-01-12 13:44:04 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 13:44:04 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:07:27 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7316 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:07:27 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:07:29 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:07:29 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:07:29 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:07:29 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:07:30 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:07:30 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:07:31 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:07:31 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.82 seconds (JVM running for 5.566)
+2021-01-12 14:09:17 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:09:17 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:09:20 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 13176 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:09:20 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:09:22 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:09:22 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:09:22 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:09:22 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:09:22 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:09:23 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:09:23 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:09:24 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.666 seconds (JVM running for 5.405)
+2021-01-12 14:09:42 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:10:04 ===[ http-nio-8081-exec-2 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MaxUploadSizeExceededException: Maximum upload size exceeded; nested exception is java.lang.IllegalStateException: org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.] with root cause
+org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.
+	at org.apache.tomcat.util.http.fileupload.impl.FileItemStreamImpl$1.raiseError(FileItemStreamImpl.java:114)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.checkLimit(LimitedInputStream.java:76)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.read(LimitedInputStream.java:135)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.tomcat.util.http.fileupload.util.Streams.copy(Streams.java:98)
+	at org.apache.tomcat.util.http.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:291)
+	at org.apache.catalina.connector.Request.parseParts(Request.java:2895)
+	at org.apache.catalina.connector.Request.parseParameters(Request.java:3228)
+	at org.apache.catalina.connector.Request.getParameterNames(Request.java:1173)
+	at org.apache.catalina.connector.Request.getParameterMap(Request.java:1152)
+	at org.apache.catalina.connector.RequestFacade.getParameterMap(RequestFacade.java:443)
+	at org.springframework.web.servlet.DispatcherServlet.lambda$logRequest$2(DispatcherServlet.java:985)
+	at org.springframework.core.log.LogFormatUtils.traceDebug(LogFormatUtils.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.logRequest(DispatcherServlet.java:977)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:924)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-12 14:10:05 ===[ http-nio-8081-exec-3 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MaxUploadSizeExceededException: Maximum upload size exceeded; nested exception is java.lang.IllegalStateException: org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.] with root cause
+org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.
+	at org.apache.tomcat.util.http.fileupload.impl.FileItemStreamImpl$1.raiseError(FileItemStreamImpl.java:114)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.checkLimit(LimitedInputStream.java:76)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.read(LimitedInputStream.java:135)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.tomcat.util.http.fileupload.util.Streams.copy(Streams.java:98)
+	at org.apache.tomcat.util.http.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:291)
+	at org.apache.catalina.connector.Request.parseParts(Request.java:2895)
+	at org.apache.catalina.connector.Request.parseParameters(Request.java:3228)
+	at org.apache.catalina.connector.Request.getParameterNames(Request.java:1173)
+	at org.apache.catalina.connector.Request.getParameterMap(Request.java:1152)
+	at org.apache.catalina.connector.RequestFacade.getParameterMap(RequestFacade.java:443)
+	at org.springframework.web.servlet.DispatcherServlet.lambda$logRequest$2(DispatcherServlet.java:985)
+	at org.springframework.core.log.LogFormatUtils.traceDebug(LogFormatUtils.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.logRequest(DispatcherServlet.java:977)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:924)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-12 14:10:06 ===[ http-nio-8081-exec-4 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MaxUploadSizeExceededException: Maximum upload size exceeded; nested exception is java.lang.IllegalStateException: org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.] with root cause
+org.apache.tomcat.util.http.fileupload.impl.FileSizeLimitExceededException: The field file exceeds its maximum permitted size of 1048576 bytes.
+	at org.apache.tomcat.util.http.fileupload.impl.FileItemStreamImpl$1.raiseError(FileItemStreamImpl.java:114)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.checkLimit(LimitedInputStream.java:76)
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.read(LimitedInputStream.java:135)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.tomcat.util.http.fileupload.util.Streams.copy(Streams.java:98)
+	at org.apache.tomcat.util.http.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:291)
+	at org.apache.catalina.connector.Request.parseParts(Request.java:2895)
+	at org.apache.catalina.connector.Request.parseParameters(Request.java:3228)
+	at org.apache.catalina.connector.Request.getParameterNames(Request.java:1173)
+	at org.apache.catalina.connector.Request.getParameterMap(Request.java:1152)
+	at org.apache.catalina.connector.RequestFacade.getParameterMap(RequestFacade.java:443)
+	at org.springframework.web.servlet.DispatcherServlet.lambda$logRequest$2(DispatcherServlet.java:985)
+	at org.springframework.core.log.LogFormatUtils.traceDebug(LogFormatUtils.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.logRequest(DispatcherServlet.java:977)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:924)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-12 14:10:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:10:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:10:41 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5808 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:10:41 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:10:43 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:10:43 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:10:43 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:10:43 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:10:44 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:10:44 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:10:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:10:45 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.739 seconds (JVM running for 5.493)
+2021-01-12 14:10:50 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:10:51 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 39 ] === upload success
+2021-01-12 14:11:00 ===[ http-nio-8081-exec-3 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 39 ] === upload success
+2021-01-12 14:18:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:18:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:19:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 10292 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:19:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:19:01 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:19:01 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:19:01 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:19:02 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:19:02 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:19:02 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:19:03 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:19:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.69 seconds (JVM running for 5.689)
+2021-01-12 14:19:13 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:19:16 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 73 ] === download success
+2021-01-12 14:22:01 ===[ http-nio-8081-exec-7 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 73 ] === download success
+2021-01-12 14:22:05 ===[ http-nio-8081-exec-6 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 73 ] === download success
+2021-01-12 14:29:53 ===[ http-nio-8081-exec-9 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 73 ] === download success
+2021-01-12 14:40:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:40:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:40:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 1316 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:40:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:40:49 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:40:49 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:40:49 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:40:49 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:40:49 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:40:50 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:40:51 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:40:51 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.664 seconds (JVM running for 5.39)
+2021-01-12 14:40:56 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:40:58 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 75 ] === download success
+2021-01-12 14:52:58 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:52:58 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:53:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12760 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:53:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:53:06 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:53:07 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:53:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.741 seconds (JVM running for 5.456)
+2021-01-12 14:53:07 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:53:10 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 75 ] === download success
+2021-01-12 14:54:30 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 14:54:30 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 14:54:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 14128 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 14:54:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 14:54:38 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:54:38 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 14:54:38 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 14:54:38 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 14:54:38 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 14:54:39 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 14:54:40 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 14:54:40 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.799 seconds (JVM running for 5.546)
+2021-01-12 14:54:49 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 14:54:51 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 75 ] === download success
+2021-01-12 15:00:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 15:00:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 15:00:12 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2588 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 15:00:12 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 15:00:14 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 15:00:15 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 15:00:16 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.941 seconds (JVM running for 5.655)
+2021-01-12 15:00:16 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 15:00:18 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 75 ] === download success
+2021-01-12 15:07:10 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 15:07:10 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 15:07:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5716 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 15:07:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 15:07:17 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 15:07:17 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 15:07:17 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 15:07:17 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 15:07:17 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 15:07:18 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 15:07:19 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 15:07:19 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.626 seconds (JVM running for 5.363)
+2021-01-12 15:07:21 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 15:07:26 ===[ http-nio-8081-exec-4 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 79 ] === download success
+2021-01-12 15:13:51 ===[ http-nio-8081-exec-6 ] === [ INFO  ]===[ com.example.demo1.controller.FileController : 79 ] === download success
+2021-01-12 17:35:07 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 17:35:07 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 18:08:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6868 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 18:08:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 18:08:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 18:08:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 18:08:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 18:08:45 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 18:08:46 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 18:08:46 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 18:08:47 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 18:08:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.603 seconds (JVM running for 5.299)
+2021-01-12 18:09:57 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 18:09:57 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-12 18:10:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 13164 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-12 18:10:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-12 18:10:02 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-12 18:10:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-12 18:10:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-12 18:10:02 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-12 18:10:03 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-12 18:10:03 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-12 18:10:04 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-12 18:10:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.539 seconds (JVM running for 5.26)
+2021-01-12 18:10:27 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-12 18:12:12 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-12 18:12:13 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

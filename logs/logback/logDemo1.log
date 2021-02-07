@@ -1,0 +1,16 @@
+2021-02-06 15:42:09 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 55 ] === Starting Provider using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11380 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-02-06 15:42:09 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 664 ] === The following profiles are active: dev
+2021-02-06 15:42:10 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-02-06 15:42:11 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-02-06 15:42:12 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-02-06 15:42:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 61 ] === Started Provider in 7.113 seconds (JVM running for 8.618)
+2021-02-06 15:42:16 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-02-06 15:42:16 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-02-06 15:46:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 55 ] === Starting Provider using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6772 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-02-06 15:46:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 664 ] === The following profiles are active: dev
+2021-02-06 15:46:12 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-02-06 15:46:14 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-02-06 15:46:14 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-02-06 15:46:18 ===[ main ] === [ INFO  ]===[ com.example.demo1.rabbitMQ.Provider : 61 ] === Started Provider in 7.591 seconds (JVM running for 9.149)
+2021-02-06 15:46:18 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-02-06 15:46:18 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

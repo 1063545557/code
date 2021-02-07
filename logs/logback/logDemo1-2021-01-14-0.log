@@ -1,0 +1,12 @@
+2021-01-14 09:19:56 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7176 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-14 09:19:56 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-14 09:19:57 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-14 09:19:58 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-14 09:20:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 4.089 seconds (JVM running for 5.586)
+2021-01-14 09:20:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 21 ] === before test
+2021-01-14 09:20:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 31 ] === 这是info日志
+2021-01-14 09:20:00 ===[ main ] === [ WARN  ]===[ com.example.demo1.LogTest : 32 ] === 这是warn日志
+2021-01-14 09:20:00 ===[ main ] === [ ERROR ]===[ com.example.demo1.LogTest : 33 ] === 这是error日志
+2021-01-14 09:20:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 25 ] === after test
+2021-01-14 09:20:00 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-14 09:20:00 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

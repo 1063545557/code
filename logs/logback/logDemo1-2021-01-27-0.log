@@ -1,0 +1,1512 @@
+2021-01-27 09:17:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 1464 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:17:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:17:09 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:17:09 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:17:10 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:17:10 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:18:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11352 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:18:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:18:27 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:18:28 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:18:28 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:18:28 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:25:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6640 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:25:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:25:29 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:25:30 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:25:30 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:25:30 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:29:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11356 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:29:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:29:04 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:29:05 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:29:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 4.744 seconds (JVM running for 6.145)
+2021-01-27 09:29:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 29 ] === before test
+2021-01-27 09:29:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 33 ] === after test
+2021-01-27 09:29:07 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:29:07 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:37:08 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5572 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:37:08 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:37:10 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:37:11 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:37:11 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:37:11 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:51:13 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12972 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:51:13 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:51:14 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:51:15 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:51:15 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:51:15 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:56:20 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12476 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:56:20 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:56:21 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:56:21 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:56:22 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:56:22 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 09:58:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11928 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 09:58:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 09:58:35 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 09:58:35 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 09:58:36 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 09:58:36 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:05:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7788 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:05:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 10:05:17 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:05:17 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:05:18 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 10:05:18 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:11:59 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7328 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:11:59 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 10:12:00 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:12:01 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:12:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 4.119 seconds (JVM running for 5.372)
+2021-01-27 10:12:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 28 ] === before test
+2021-01-27 10:12:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 32 ] === after test
+2021-01-27 10:12:03 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 10:12:03 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:12:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2280 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:12:47 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 10:12:49 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:12:50 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:12:50 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 10:12:50 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:15:19 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7836 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:15:19 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 10:15:21 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:15:21 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:15:22 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 10:15:22 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:20:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 13468 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:20:43 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-27 10:20:45 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:20:46 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:20:49 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 7.465 seconds (JVM running for 11.085)
+2021-01-27 10:20:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 28 ] === before test
+2021-01-27 10:20:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 32 ] === after test
+2021-01-27 10:20:50 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 10:20:50 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 10:26:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12884 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 10:26:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 10:26:36 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 10:26:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 10:26:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 10:26:36 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 10:26:36 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 10:26:37 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 10:26:38 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 10:26:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.143 seconds (JVM running for 6.013)
+2021-01-27 10:27:09 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:02:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 15328 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:02:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:02:34 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:02:35 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:02:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:02:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:02:35 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:02:35 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:02:36 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:02:36 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:02:36 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.251 seconds (JVM running for 4.912)
+2021-01-27 11:02:50 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:02:50 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy60.selectList(Unknown Source)
+	at com.example.demo1.controller.UserController.selectList(UserController.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:04:51 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 8684 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:04:51 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:04:52 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:04:53 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:04:53 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:04:53 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:04:53 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:04:53 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:04:54 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:04:55 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:04:55 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.898 seconds (JVM running for 5.803)
+2021-01-27 11:04:58 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:04:58 ===[ http-nio-8081-exec-2 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy60.selectList(Unknown Source)
+	at com.example.demo1.controller.UserController.selectList(UserController.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:06:33 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:06:33 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:06:44 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6236 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:06:44 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:06:45 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:06:46 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:06:46 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:06:46 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:06:46 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:06:46 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:06:47 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:06:48 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:06:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.47 seconds (JVM running for 6.447)
+2021-01-27 11:07:00 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:07:00 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy60.selectList(Unknown Source)
+	at com.example.demo1.controller.UserController.selectList(UserController.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:09:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:09:41 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:09:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 8620 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:09:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:09:49 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:09:50 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:09:50 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:09:50 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:09:50 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:09:50 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:09:51 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:09:52 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:09:52 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.675 seconds (JVM running for 5.488)
+2021-01-27 11:09:57 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:09:57 ===[ http-nio-8081-exec-2 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy60.selectList(Unknown Source)
+	at com.example.demo1.controller.UserController.selectList(UserController.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:18:30 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:18:30 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:18:35 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9916 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:18:35 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:18:36 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:18:37 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:18:37 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:18:37 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:18:37 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:18:38 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:18:38 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:18:39 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:18:39 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.77 seconds (JVM running for 5.502)
+2021-01-27 11:18:45 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:18:45 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.UserMapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy60.selectList(Unknown Source)
+	at com.example.demo1.controller.UserController.selectList(UserController.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:23:55 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:23:55 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:24:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 8892 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:24:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:24:04 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:24:05 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:24:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:24:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:24:05 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:24:05 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:24:06 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:24:07 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:24:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.036 seconds (JVM running for 5.793)
+2021-01-27 11:24:13 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:24:13 ===[ http-nio-8081-exec-2 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.User1Mapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.User1Mapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at com.example.demo1.controller.User1Controller.selectList(User1Controller.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:31:13 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:31:13 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:31:17 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 6972 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:31:17 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:31:18 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:31:19 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:31:19 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:31:19 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:31:19 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:31:19 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:31:20 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:31:21 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:31:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.42 seconds (JVM running for 6.184)
+2021-01-27 11:36:15 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:36:15 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:36:25 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 14700 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:36:25 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:36:26 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:36:26 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:36:26 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:36:26 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:36:27 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:36:27 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:36:27 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:36:28 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:36:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.543 seconds (JVM running for 5.313)
+2021-01-27 11:36:40 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:36:40 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.User1Mapper.selectList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.demo1.mapper.User1Mapper.selectList
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod$SqlCommand.<init>(PageMapperMethod.java:261)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.<init>(PageMapperMethod.java:58)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.cachedMapperMethod(PageMapperProxy.java:70)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:63)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at com.example.demo1.controller.User1Controller.selectList(User1Controller.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:38:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11380 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:38:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:38:23 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:38:23 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:38:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:38:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:38:23 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:38:24 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:38:24 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:38:24 ===[ main ] === [ WARN  ]===[ c.b.mybatisplus.core.toolkit.TableInfoHelper : 250 ] === Warn: Could not find @TableId in Class: com.example.demo1.entity.User1.
+2021-01-27 11:38:25 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:38:25 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.257 seconds (JVM running for 6.06)
+2021-01-27 11:38:28 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:38:29 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user1' doesn't exist
+### The error may exist in com/example/demo1/mapper/User1Mapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,username,nick_name,gender,phone,email,avatar_name,avatar_path,password,is_admin,enabled,create_by,update_by,pwd_reset_time,create_time,update_time  FROM user1
+### Cause: java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user1' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user1' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user1' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3461)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3459)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy57.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:224)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.executeForMany(PageMapperMethod.java:173)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.execute(PageMapperMethod.java:86)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:64)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at com.example.demo1.controller.User1Controller.selectList(User1Controller.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:39:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:39:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:39:44 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11956 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:39:44 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:39:45 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:39:46 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:39:46 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:39:46 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:39:46 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:39:46 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:39:47 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:39:47 ===[ main ] === [ WARN  ]===[ c.b.mybatisplus.core.toolkit.TableInfoHelper : 250 ] === Warn: Could not find @TableId in Class: com.example.demo1.entity.User.
+2021-01-27 11:39:48 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:39:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.121 seconds (JVM running for 5.853)
+2021-01-27 11:39:50 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:39:50 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user' doesn't exist
+### The error may exist in com/example/demo1/mapper/User1Mapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,username,nick_name,gender,phone,email,avatar_name,avatar_path,password,is_admin,enabled,create_by,update_by,pwd_reset_time,create_time,update_time  FROM user
+### Cause: java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'portals_detector_manager.user' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3461)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3459)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy57.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:224)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.executeForMany(PageMapperMethod.java:173)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.execute(PageMapperMethod.java:86)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:64)
+	at com.sun.proxy.$Proxy59.selectList(Unknown Source)
+	at com.example.demo1.controller.User1Controller.selectList(User1Controller.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 11:41:54 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:41:54 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:42:01 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11952 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:42:01 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:42:02 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:42:03 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:42:03 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:42:03 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:42:03 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:42:03 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:42:04 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:42:04 ===[ main ] === [ WARN  ]===[ c.b.mybatisplus.core.toolkit.TableInfoHelper : 250 ] === Warn: Could not find @TableId in Class: com.example.demo1.entity.User1.
+2021-01-27 11:42:05 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:42:05 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.924 seconds (JVM running for 5.696)
+2021-01-27 11:42:09 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 11:53:47 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 11:53:47 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 11:53:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9876 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:53:50 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:53:51 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:53:52 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:53:52 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:53:52 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:53:52 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:53:52 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Stopping service [Tomcat]
+2021-01-27 11:55:27 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9704 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:55:27 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:55:28 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:55:29 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:55:29 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:55:29 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:55:29 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:55:29 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Stopping service [Tomcat]
+2021-01-27 11:56:16 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2160 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:56:16 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:56:17 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === Skipping MapperFactoryBean with name 'user1Mapper' and 'com.example.demo1.mapper.User1Mapper' mapperInterface. Bean already defined with the same name!
+2021-01-27 11:56:17 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:56:17 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:56:17 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:56:18 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:56:18 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Stopping service [Tomcat]
+2021-01-27 11:57:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7960 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:57:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:57:35 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:57:36 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:57:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:57:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:57:36 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:57:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Stopping service [Tomcat]
+2021-01-27 11:58:59 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 8684 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 11:58:59 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 11:59:00 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 11:59:01 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:59:01 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 11:59:01 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 11:59:01 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 11:59:01 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 11:59:02 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 11:59:02 ===[ main ] === [ WARN  ]===[ c.b.mybatisplus.core.toolkit.TableInfoHelper : 250 ] === Warn: Could not find @TableId in Class: com.example.demo1.entity.User1.
+2021-01-27 11:59:03 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 11:59:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.791 seconds (JVM running for 5.576)
+2021-01-27 11:59:15 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 12:00:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 12:00:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 12:01:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 10124 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 12:01:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 12:01:01 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 12:01:02 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 12:01:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 12:01:02 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 12:01:02 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 12:01:02 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 12:01:03 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 12:01:04 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 12:01:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.884 seconds (JVM running for 5.597)
+2021-01-27 12:01:08 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 12:58:35 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 12:58:35 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 12:58:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5160 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 12:58:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 12:58:43 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 12:58:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 12:58:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 12:58:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 12:58:45 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 12:58:45 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 12:58:46 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 12:58:48 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 12:58:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 6.697 seconds (JVM running for 7.629)
+2021-01-27 12:58:57 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:10:28 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 13:10:28 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 13:10:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12248 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 13:10:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 13:10:34 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 13:10:35 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:10:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 13:10:35 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 13:10:35 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 13:10:35 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 13:10:36 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 13:10:37 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:10:37 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.021 seconds (JVM running for 5.869)
+2021-01-27 13:10:47 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:10:47 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 17 ] === start insert fill ....
+2021-01-27 13:10:47 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'createTime' of 'class com.example.demo1.entity.User1' with value 'Wed Jan 27 13:10:47 CST 2021' Cause: java.lang.IllegalArgumentException: argument type mismatch] with root cause
+java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.reflection.invoker.MethodInvoker.invoke(MethodInvoker.java:44)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.setBeanProperty(BeanWrapper.java:180)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.set(BeanWrapper.java:59)
+	at org.apache.ibatis.reflection.MetaObject.setValue(MetaObject.java:140)
+	at com.baomidou.mybatisplus.core.handlers.MetaObjectHandler.setFieldValByName(MetaObjectHandler.java:60)
+	at com.example.demo1.handler.MyMetaObjectHandler.insertFill(MyMetaObjectHandler.java:18)
+	at com.baomidou.mybatisplus.core.MybatisDefaultParameterHandler.populateKeys(MybatisDefaultParameterHandler.java:220)
+	at com.baomidou.mybatisplus.core.MybatisDefaultParameterHandler.processBatch(MybatisDefaultParameterHandler.java:147)
+	at com.baomidou.mybatisplus.core.MybatisDefaultParameterHandler.<init>(MybatisDefaultParameterHandler.java:59)
+	at com.baomidou.mybatisplus.core.MybatisXMLLanguageDriver.createParameterHandler(MybatisXMLLanguageDriver.java:37)
+	at org.apache.ibatis.session.Configuration.newParameterHandler(Configuration.java:645)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.<init>(BaseStatementHandler.java:69)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.<init>(PreparedStatementHandler.java:41)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.<init>(RoutingStatementHandler.java:46)
+	at org.apache.ibatis.session.Configuration.newStatementHandler(Configuration.java:658)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:48)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy57.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.execute(PageMapperMethod.java:68)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:64)
+	at com.sun.proxy.$Proxy60.insert(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy61.insert(Unknown Source)
+	at com.example.demo1.controller.User1Controller.insert(User1Controller.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 13:11:58 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 13:11:58 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 13:12:05 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12740 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 13:12:05 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 13:12:06 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 13:12:07 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:12:07 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 13:12:07 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 13:12:07 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 13:12:07 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 13:12:08 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 13:12:09 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:12:09 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.287 seconds (JVM running for 6.045)
+2021-01-27 13:12:11 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:12:11 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 17 ] === start insert fill ....
+2021-01-27 13:12:12 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+### The error may exist in com/example/demo1/mapper/User1Mapper.java (best guess)
+### The error may involve com.example.demo1.mapper.User1Mapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO sys_user  ( username,             create_time, update_time )  VALUES  ( ?,             ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+; Duplicate entry 'qqq' for key 'username'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'] with root cause
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3461)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3459)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy80.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy57.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.execute(PageMapperMethod.java:68)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:64)
+	at com.sun.proxy.$Proxy61.insert(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy62.insert(Unknown Source)
+	at com.example.demo1.controller.User1Controller.insert(User1Controller.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 13:13:23 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 13:13:23 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 13:13:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4220 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 13:13:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 13:13:29 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 13:13:30 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:13:30 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 13:13:30 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 13:13:31 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 13:13:31 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 13:13:32 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 13:13:33 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:13:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.157 seconds (JVM running for 5.872)
+2021-01-27 13:13:36 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:13:36 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 17 ] === start insert fill ....
+2021-01-27 13:13:37 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] === Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+### The error may exist in com/example/demo1/mapper/User1Mapper.java (best guess)
+### The error may involve com.example.demo1.mapper.User1Mapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO sys_user  ( username,             create_time, update_time )  VALUES  ( ?,             ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+; Duplicate entry 'qqq' for key 'username'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'] with root cause
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'qqq' for key 'username'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3461)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3459)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy81.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy57.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at com.baomidou.mybatisplus.core.override.PageMapperMethod.execute(PageMapperMethod.java:68)
+	at com.baomidou.mybatisplus.core.override.PageMapperProxy.invoke(PageMapperProxy.java:64)
+	at com.sun.proxy.$Proxy62.insert(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy63.insert(Unknown Source)
+	at com.example.demo1.controller.User1Controller.insert(User1Controller.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-01-27 13:15:26 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 13:15:26 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 13:15:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 13168 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 13:15:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 13:15:34 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 13:15:36 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:15:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 13:15:36 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 13:15:36 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 13:15:37 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 13:15:38 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 13:15:39 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:15:39 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 7.244 seconds (JVM running for 8.369)
+2021-01-27 13:15:39 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:15:39 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 17 ] === start insert fill ....
+2021-01-27 13:18:24 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 13:18:24 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 13:18:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 12848 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 13:18:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 13:18:30 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 13:18:31 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:18:31 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 13:18:31 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 13:18:31 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 13:18:31 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 13:18:32 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 13:18:33 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 13:18:33 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.277 seconds (JVM running for 6.049)
+2021-01-27 13:18:42 ===[ http-nio-8081-exec-3 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 13:18:42 ===[ http-nio-8081-exec-3 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 24 ] === start update fill ....
+2021-01-27 14:56:20 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 14:56:20 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 14:56:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5960 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 14:56:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 14:56:27 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 14:56:28 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 14:56:28 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 14:56:28 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 14:56:28 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 14:56:29 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 14:56:29 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 14:56:30 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 14:56:30 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.08 seconds (JVM running for 5.847)
+2021-01-27 14:56:39 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 14:58:36 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 14:58:36 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 14:58:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5728 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 14:58:42 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 14:58:44 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 14:58:45 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 14:58:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 14:58:45 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 14:58:45 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 14:58:46 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 14:58:46 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 14:58:48 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 14:58:48 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 6.469 seconds (JVM running for 7.496)
+2021-01-27 15:00:03 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 15:00:03 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ com.example.demo1.handler.MyMetaObjectHandler : 17 ] === start insert fill ....
+2021-01-27 15:00:04 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ com.alibaba.druid.pool.DruidAbstractDataSource : 1488 ] === discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, lastPacketReceivedIdleMillis : 77103
+2021-01-27 15:00:04 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ com.alibaba.druid.pool.DruidAbstractDataSource : 1488 ] === discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, lastPacketReceivedIdleMillis : 77129
+2021-01-27 15:00:04 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ com.alibaba.druid.pool.DruidAbstractDataSource : 1488 ] === discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, lastPacketReceivedIdleMillis : 77135
+2021-01-27 15:00:04 ===[ http-nio-8081-exec-1 ] === [ ERROR ]===[ com.alibaba.druid.pool.DruidAbstractDataSource : 1488 ] === discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, jdbcUrl : jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false, lastPacketReceivedIdleMillis : 77144
+2021-01-27 15:00:18 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 15:00:18 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 15:00:24 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 9168 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 15:00:24 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 15:00:25 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 15:00:26 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:00:26 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 15:00:26 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 15:00:26 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 15:00:26 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 15:00:27 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 15:00:28 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:00:28 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.062 seconds (JVM running for 5.823)
+2021-01-27 15:00:37 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 15:11:05 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 15:11:05 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 15:11:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 11552 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 15:11:11 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 15:11:12 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 15:11:13 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:11:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 15:11:13 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 15:11:13 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 15:11:13 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 15:11:14 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 15:11:15 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:11:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.295 seconds (JVM running for 6.085)
+2021-01-27 15:11:22 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 15:20:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 15:20:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 15:21:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5108 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 15:21:03 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 15:21:04 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 15:21:05 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:21:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 15:21:05 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 15:21:05 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 15:21:05 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 15:21:06 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 15:21:07 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:21:07 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.592 seconds (JVM running for 6.521)
+2021-01-27 15:21:14 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 15:21:14 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 15:21:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4672 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 15:21:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 15:21:22 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 15:21:23 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:21:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 15:21:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 15:21:23 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 15:21:24 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 15:21:25 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 15:21:26 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:21:26 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 6.423 seconds (JVM running for 7.407)
+2021-01-27 15:22:15 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 15:22:15 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 15:22:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 2752 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 15:22:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-27 15:22:22 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 15:22:23 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:22:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-27 15:22:23 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-27 15:22:23 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-27 15:22:23 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 15:22:24 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 15:22:25 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-27 15:22:25 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 5.295 seconds (JVM running for 6.087)
+2021-01-27 15:22:35 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-27 16:14:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 16:14:56 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 16:15:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 55 ] === Starting SpringbootTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 10888 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 16:15:00 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 664 ] === The following profiles are active: dev
+2021-01-27 16:15:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 55 ] === Starting SpringbootTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 10636 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 16:15:15 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 664 ] === The following profiles are active: dev
+2021-01-27 16:16:35 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 55 ] === Starting SpringbootTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5380 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 16:16:35 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 664 ] === The following profiles are active: dev
+2021-01-27 16:16:36 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 16:16:37 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 16:16:37 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 16:16:39 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 61 ] === Started SpringbootTest in 5.048 seconds (JVM running for 6.646)
+2021-01-27 16:16:40 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 16:16:40 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 16:17:01 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 55 ] === Starting SpringbootTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7992 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 16:17:01 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 664 ] === The following profiles are active: dev
+2021-01-27 16:17:02 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 16:17:03 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 16:17:04 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 16:17:05 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 61 ] === Started SpringbootTest in 4.367 seconds (JVM running for 5.705)
+2021-01-27 16:17:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 16:17:06 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-27 16:18:06 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 55 ] === Starting SpringbootTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 5084 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-27 16:18:06 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 664 ] === The following profiles are active: dev
+2021-01-27 16:18:07 ===[ main ] === [ WARN  ]===[ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] === No MyBatis mapper was found in '[com.example.demo1]' package. Please check your configuration.
+2021-01-27 16:18:08 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-27 16:18:08 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-27 16:18:10 ===[ main ] === [ INFO  ]===[ com.example.demo1.SpringbootTest : 61 ] === Started SpringbootTest in 4.713 seconds (JVM running for 6.07)
+2021-01-27 16:18:11 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-27 16:18:11 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

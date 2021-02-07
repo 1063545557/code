@@ -1,0 +1,40 @@
+2021-01-11 16:24:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 14204 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-11 16:24:21 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-11 16:26:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 7560 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-11 16:26:04 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-11 16:26:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 55 ] === Starting LogTest using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 15284 (started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-11 16:26:34 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 664 ] === The following profiles are active: dev
+2021-01-11 16:26:35 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-11 16:26:36 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-11 16:26:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 61 ] === Started LogTest in 4.723 seconds (JVM running for 6.316)
+2021-01-11 16:26:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 21 ] === before test
+2021-01-11 16:26:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 31 ] === 这是info日志
+2021-01-11 16:26:38 ===[ main ] === [ WARN  ]===[ com.example.demo1.LogTest : 32 ] === 这是warn日志
+2021-01-11 16:26:38 ===[ main ] === [ ERROR ]===[ com.example.demo1.LogTest : 33 ] === 这是error日志
+2021-01-11 16:26:38 ===[ main ] === [ INFO  ]===[ com.example.demo1.LogTest : 25 ] === after test
+2021-01-11 16:26:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-11 16:26:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed
+2021-01-11 16:31:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4948 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-11 16:31:29 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-11 16:31:31 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-11 16:31:31 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-11 16:31:31 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-11 16:31:31 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-11 16:31:31 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-11 16:31:32 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-11 16:31:32 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-11 16:31:32 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 3.908 seconds (JVM running for 4.44)
+2021-01-11 16:31:40 ===[ http-nio-8081-exec-1 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-11 16:38:08 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 55 ] === Starting Demo1Application using Java 1.8.0_181 on DESKTOP-NA4V0HU with PID 4828 (C:\Users\26690\Desktop\新建文件夹 (2)\demo1\target\classes started by LZDEV in C:\Users\26690\Desktop\新建文件夹 (2)\demo1)
+2021-01-11 16:38:08 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 664 ] === The following profiles are active: dev
+2021-01-11 16:38:10 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Initializing ProtocolHandler ["http-nio-8081"]
+2021-01-11 16:38:10 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardService : 173 ] === Starting service [Tomcat]
+2021-01-11 16:38:10 ===[ main ] === [ INFO  ]===[ org.apache.catalina.core.StandardEngine : 173 ] === Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-11 16:38:10 ===[ main ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring embedded WebApplicationContext
+2021-01-11 16:38:10 ===[ main ] === [ INFO  ]===[ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] === Init DruidDataSource
+2021-01-11 16:38:11 ===[ main ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 985 ] === {dataSource-1} inited
+2021-01-11 16:38:11 ===[ main ] === [ INFO  ]===[ org.apache.coyote.http11.Http11NioProtocol : 173 ] === Starting ProtocolHandler ["http-nio-8081"]
+2021-01-11 16:38:12 ===[ main ] === [ INFO  ]===[ com.example.demo1.Demo1Application : 61 ] === Started Demo1Application in 4.511 seconds (JVM running for 5.224)
+2021-01-11 16:39:13 ===[ http-nio-8081-exec-2 ] === [ INFO  ]===[ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] === Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-11 17:51:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2032 ] === {dataSource-1} closing ...
+2021-01-11 17:51:38 ===[ SpringContextShutdownHook ] === [ INFO  ]===[ com.alibaba.druid.pool.DruidDataSource : 2104 ] === {dataSource-1} closed

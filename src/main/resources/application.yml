@@ -1,0 +1,76 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      enabled: true
+      #      最大支持文件大小,限制单个文件的最大值
+      max-file-size: 100MB
+      #      最大支持请求大小,限制上传的多个文件的总大小
+      max-request-size: 500MB
+#  mvc:
+#    view:
+#      prefix: classpath:/templates/
+#      suffix: .html
+  datasource:
+    druid:
+      username: root
+      password: root
+      url: jdbc:mysql://localhost:3306/portals_detector_manager?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      # 初始连接数
+      initial-size: 5
+      # 最小连接数
+      min-idle: 10
+      # 最大连接数
+      max-active: 20
+      # 获取连接超时时间
+      max-wait: 5000
+      # 连接有效性检测时间
+      time-between-eviction-runs-millis: 60000
+      # 连接在池中最小生存的时间
+      min-evictable-idle-time-millis: 300000
+      # 连接在池中最大生存的时间
+      max-evictable-idle-time-millis: 900000
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      # 检测连接是否有效
+      validation-query: select 1
+      # 配置监控统计
+      webStatFilter:
+        enabled: true
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        reset-enable: false
+      filter:
+        stat:
+          enabled: true
+          # 记录慢SQL
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: true
+        wall:
+          config:
+            multi-statement-allow: true
+
+mybatis:
+#  config-location: classpath:mybatisConfig.xml
+  mapper-locations: classpath:mapping/*.xml
+
+mybatis-plus:
+  global-config:
+    db-config:
+#      logic-delete-field: flag  # 全局逻辑删除的实体字段名(since 3.3.0,配置后可以忽略不配置步骤2)
+      logic-delete-value: 1 # 逻辑已删除值(默认为 1)
+      logic-not-delete-value: 0 # 逻辑未删除值(默认为 0)
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+logging:
+
+#文件存储路径
+filepath: C:\Users\26690\Desktop\新建文件夹 (2)\文件上传下载\

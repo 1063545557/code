@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo1.mapper.ShiroUserMapper">
+    
+    <insert id="save" parameterType="com.example.demo1.entity.ShiroUser" useGeneratedKeys="true" keyProperty="id">
+        insert into t_user value (#{id},#{username},#{password},#{salt})
+    </insert>
+    
+    <select id="findByUsername" parameterType="String" resultType="com.example.demo1.entity.ShiroUser">
+        select * from t_user where username=#{username}
+    </select>
+
+    <resultMap id="userMap" type="ShiroUser">
+        <id column="uid" property="id"></id>
+        <result column="username" property="username"/>
+        <collection property="roles" javaType="list" ofType="Role">
+            <id column="id" property="id"/>
+            <result column="rname" property="name"/>
+        </collection>
+    </resultMap>
+    <select id="fiindRolesByUsername" parameterType="String" resultMap="userMap">
+        select u.id uid,u.username,r.id,r.name rname from t_user u left join t_user_role ur on u.id=ur.userid
+        left join t_role r on ur.roleid=r.id
+        where u.username=#{username}
+    </select>
+
+    <select id="findPermsById" parameterType="Integer" resultType="Perms">
+        select * from t_role r left join t_role_perms rp on r.id=rp.roleId
+        left join t_perms p on rp.perms.id=p.id
+        where r.id=#{roleId}
+    </select>
+</mapper>
